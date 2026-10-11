@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Dark Circular Emblem Background -->
+    <path
+        android:fillColor="#0D1525"
+        android:pathData="M60,6 A54,54 0 1,0 60,114 A54,54 0 1,0 60,6 Z" />
+
+    <!-- Outer Circular Rim Glow -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1E3A5F"
+        android:strokeWidth="1.5"
+        android:pathData="M60,9 A51,51 0 1,0 60,111 A51,51 0 1,0 60,9 Z" />
+
+    <!-- Tactical Shield Crest Outline -->
+    <path
+        android:fillColor="#0B1C33"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M43,30 L60,26 L77,30 C77,53 69,67 60,75 C51,67 43,53 43,30 Z" />
+
+    <!-- Inner Shield Target Crosshair Circle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="1.2"
+        android:pathData="M60,37 A15,15 0 1,0 60,67 A15,15 0 1,0 60,37 Z" />
+
+    <!-- Crosshair Lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.2"
+        android:pathData="M60,32 L60,40 M60,64 L60,72 M44,52 L52,52 M68,52 L76,52" />
+
+    <!-- Crosshair Center Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.2"
+        android:pathData="M60,49 A3,3 0 1,0 60,55 A3,3 0 1,0 60,49 Z" />
+
+    <!-- Bold Stylized 'A' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M42,65 L46,65 L47.5,61 L54.5,61 L56,65 L60,65 L52.5,41 L49.5,41 Z M49,57 L51,50 L53,57 Z" />
+
+    <!-- Glitch Cut on 'A' -->
+    <path
+        android:fillColor="#0D1525"
+        android:pathData="M41,53 L61,53 L61,54.5 L41,54.5 Z" />
+
+    <!-- Bold Stylized 'I' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M58,41 L62,41 L62,65 L58,65 Z" />
+
+    <!-- Glitch Cut on 'I' -->
+    <path
+        android:fillColor="#0D1525"
+        android:pathData="M57,48 L63,48 L63,49.5 L57,49.5 Z" />
+
+    <!-- Bold Stylized 'S' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M67,46 C67,43 70,41 74,41 C78,41 81,43 81,46 L77,47 C77,45 76,44 74,44 C72,44 71,45 71,46 C71,48 72,49 75,50 L77,51 C81,53 82,55 82,58 C82,62 78,65 74,65 C69,65 66,62 66,58 L70,57 C70,60 72,62 74,62 C76,62 78,61 78,59 C78,57 77,56 74,55 L72,54 C68,52 67,50 67,46 Z" />
+
+    <!-- Glitch Cut on 'S' -->
+    <path
+        android:fillColor="#0D1525"
+        android:pathData="M65,58 L83,58 L83,59.5 L65,59.5 Z" />
+
+    <!-- Small Reticle Scope Pip (Top) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1"
+        android:pathData="M60,31 A1.2,1.2 0 1,0 60,33.4 A1.2,1.2 0 1,0 60,31 Z" />
+
+    <!-- Small Reticle Scope Pip (Right) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1"
+        android:pathData="M73,50 A1.2,1.2 0 1,0 73,52.4 A1.2,1.2 0 1,0 73,50 Z" />
+
+    <!-- Subtitle: ARMY IBA SPECIALIST Dots / Tactical Banner Line -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1"
+        android:pathData="M30,86 L90,86" />
+
+    <!-- Precision Indicator Dots -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M27,86 A1.5,1.5 0 1,0 27,89 A1.5,1.5 0 1,0 27,86 Z M93,86 A1.5,1.5 0 1,0 93,89 A1.5,1.5 0 1,0 93,86 Z" />
+</vector>

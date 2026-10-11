@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tactical Shield Crest Outline (Centered) -->
+    <path
+        android:fillColor="#0D1E36"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.8"
+        android:pathData="M37,30 L54,26 L71,30 C71,56 63,71 54,80 C45,71 37,56 37,30 Z" />
+
+    <!-- Reticle Compass Ring inside Shield -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#0284C7"
+        android:strokeWidth="1.5"
+        android:pathData="M54,36 A16,16 0 1,0 54,68 A16,16 0 1,0 54,36 Z" />
+
+    <!-- Crosshair Target lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M54,31 L54,39 M54,65 L54,73 M38,52 L46,52 M62,52 L70,52" />
+
+    <!-- Crosshair Target Pip -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.2"
+        android:pathData="M54,49 A3,3 0 1,0 54,55 A3,3 0 1,0 54,49 Z" />
+
+    <!-- AIS Monogram in Electric Cyan -->
+    <!-- 'A' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M37,66 L41,66 L42.5,62 L48.5,62 L50,66 L54,66 L47.5,42 L43.5,42 Z M44.5,58 L46,51 L47.5,58 Z" />
+
+    <!-- 'I' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M52,42 L56,42 L56,66 L52,66 Z" />
+
+    <!-- 'S' -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M60,47 C60,44 63,42 67,42 C71,42 74,44 74,47 L70,48 C70,46 69,45 67,45 C65,45 64,46 64,47 C64,49 65,50 68,51 L70,52 C74,54 75,56 75,59 C75,63 71,66 67,66 C62,66 59,63 59,59 L63,58 C63,61 65,63 67,63 C69,63 71,62 71,60 C71,58 70,57 67,56 L65,55 C61,53 60,51 60,47 Z" />
+
+    <!-- Tactical Glitch Cuts -->
+    <path
+        android:fillColor="#0D1E36"
+        android:pathData="M35,54 L55,54 L55,55.5 L35,55.5 Z" />
+    <path
+        android:fillColor="#0D1E36"
+        android:pathData="M58,59 L76,59 L76,60.5 L58,60.5 Z" />
+</vector>

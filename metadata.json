@@ -1,0 +1,6 @@
+{
+  "name": "AIS ShikkhaAI",
+  "description": "AI-driven NCTB and LearnLM academic transformation platform for SSC & HSC students in Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
